@@ -1,0 +1,13 @@
+name = "Kirin"
+filename = "kirin-1.15.6+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9aNz8Zqn/versions/9xYCRuvv/kirin-1.15.6%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "367e1cc78267e327f4f73b2666341625f647353a"
+
+[update]
+[update.modrinth]
+mod-id = "9aNz8Zqn"
+version = "9xYCRuvv"

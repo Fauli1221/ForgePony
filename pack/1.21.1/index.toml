@@ -1,0 +1,111 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "194bcdf95b2917afbc9a47677707c12cd137e58ae2010b6fbd7c80c76a7811d4"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "1cd21a6750edbbefe44a6fed98b31a8f5cb932a256d084eca146cd4d5e8133cf"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "ecfbb77358bdfd9bdf4f0f6d0aee84d31d8dfdfbb8d572ed552817827ed353fb"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "41b105e7714a1a7dff60eb55dce974997d7d99a4ffcf4d4a697176c1d5563b8c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ac87d2fd4d3d151915deb9a04b2ae2803291bb35d0e8fc8d66916f1269fd972a"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "290787930537788be8554cf33c4d8dd4f0a801f3cd098daa448136881e83431a"
+metafile = true
+
+[[files]]
+file = "mods/hd-skins.pw.toml"
+hash = "e63a9e5e8a285f1edbfa7dc8feb86401ca66edf242102d357fd03e56404ca709"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "ba15d641ccb38102b9c85cab252ed12d12be5cfc3ce84bb85727806fdc8b8a0b"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "13b3e825de0b2e5f75bc25f17184f30a3721a16da1ca9c1453a59ce2b43b106d"
+metafile = true
+
+[[files]]
+file = "mods/kirin.pw.toml"
+hash = "f9cb5a28826195618f1204410d2d55c95db641339340f243b3031c0ab3129d02"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b3b33c53f8356928f86223f26eaebd7a266d610f8628e5077cda196192b0b7e4"
+metafile = true
+
+[[files]]
+file = "mods/mine-little-pony.pw.toml"
+hash = "04c03222cf4833756412c528ca07e686ab39a2c73b922e0265702306d4006d3c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "13f0baca7e08446cf68e25ac9dc80383122c93d24d01abe2da0de29fde0ca785"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ec14fef883377dbbd9107b7519751e35de2f24c81f4bafeeb889ff7dede79113"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "185bfb2745e513fea5d9424ca953d74a21b4a423e94952ea5bfd5a629e66a105"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
+metafile = true
+
+[[files]]
+file = "mods/radium.pw.toml"
+hash = "73068d4542b7451709bbacb7099a803974ec55a116015fd0bafe82047eb92635"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "7b88cc9628e1190c27f7cdade99e3914fc3a99b747381f7b2b71588c17eb3411"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "6448dd2b187041bb7b1da3998c10b43c103e47a125b06230d302d9909be3701c"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
