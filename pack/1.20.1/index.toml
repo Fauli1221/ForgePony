@@ -14,7 +14,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "config/yosbr/servers.dat"
-hash = "bb6b244c6bb9a9d36977dc7836418091cf458c36cb73b199394d2a2e999e1855"
+hash = "9c0f4af967e7dc07f7d073568fcd1b5cb288d4315a99eff4a4fc9ae082e74f78"
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
