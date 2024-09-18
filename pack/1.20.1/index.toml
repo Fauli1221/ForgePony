@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "efe6310e0631e5164ec3d8048bec35ab9a6a27b148972ee8511490c4bd6e415f"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "bb6b244c6bb9a9d36977dc7836418091cf458c36cb73b199394d2a2e999e1855"
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
 metafile = true
@@ -8,11 +24,6 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "2bda116744ab10a64e92dc6f97549850e5d74b58b985f406818a8f76abcba7f7"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
@@ -46,11 +57,6 @@ hash = "d69a7bae47c6c727c8f0fb1176113ff426a5584c7c4214604ac5e955a33ecd7a"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "019dec93e6baa342ef807ac221e9e9c2b2be0eace6dc0721a3ac37a5e5100c06"
-metafile = true
-
-[[files]]
 file = "mods/kirin.pw.toml"
 hash = "c0f9e8ae641fad4bda8d35995282406d9ea56b4521495b3846064c07b496a38b"
 metafile = true
@@ -81,6 +87,11 @@ hash = "967412dd78791d3c8ed00470ac9dd9473d0d03fdf78d04a9a004ea79bfcbde70"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
@@ -88,6 +99,21 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "5ee34a748e6dd62aba1671e851b85c4bb0346a3d8d908f257c1f7a309d18bb69"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "cd80233af1de348bd083c30d223bdbbd637737306245b8dcaf76ae812e657b2f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "02e727d18c0d178f33f9f243892ff11afad42fe673a3c54bd7cd29dcf05a8ea5"
 metafile = true
 
 [[files]]
