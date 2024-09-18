@@ -1,20 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+file = "config/NoChatReports/NCR-Client.json"
 hash = "efe6310e0631e5164ec3d8048bec35ab9a6a27b148972ee8511490c4bd6e415f"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+file = "config/NoChatReports/NCR-Common.json"
 hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+file = "config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
-
-[[files]]
-file = "config/yosbr/servers.dat"
-hash = "9c0f4af967e7dc07f7d073568fcd1b5cb288d4315a99eff4a4fc9ae082e74f78"
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
@@ -114,9 +110,4 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "02e727d18c0d178f33f9f243892ff11afad42fe673a3c54bd7cd29dcf05a8ea5"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
