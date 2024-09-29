@@ -1,0 +1,13 @@
+name = "Sodium Extra"
+filename = "sodium-extra-neoforge-0.6.0-beta.3+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/WwETq4lS/sodium-extra-neoforge-0.6.0-beta.3%2Bmc1.21.1.jar"
+hash-format = "sha1"
+hash = "51e710abecba0961e357cc043d04a3f037f2bdb5"
+
+[update]
+[update.modrinth]
+mod-id = "PtjYWJkn"
+version = "WwETq4lS"
