@@ -13,6 +13,11 @@ file = "config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "eb436640f870262186c3fe9ed68b7d0a2ad11fc69754cdf9897f1b9fcd42a0b7"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
 metafile = true
@@ -29,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d1616743755081efc574e31dc6f5d2fc263dbff1dc8e34043ff96034c7e65f56"
+hash = "631837fc09fafc0e578a2f1cc0f2fe456825d45b078c9e43b592c09cf0e6c8e3"
 metafile = true
 
 [[files]]
@@ -40,6 +45,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-screens.pw.toml"
+hash = "ce34a8d15dcff8b7f1328115cabb897e0b5d63ca90822e16318846df2d6f7552"
 metafile = true
 
 [[files]]

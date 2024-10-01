@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "e513b1c963431a2baa6cfaf488d70cd1c75acb85c35fd4af3dc19ae3150512a2"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "194bcdf95b2917afbc9a47677707c12cd137e58ae2010b6fbd7c80c76a7811d4"
 metafile = true
@@ -12,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "86d230f42a08587bd66e6777dd41bd0b1a4e463b604d539e39633910cc91e2cf"
+hash = "38c8f67e89c0550f30479a730e2ae7fa6c4a21d2b2c1c6ea2a38564713b91450"
 metafile = true
 
 [[files]]
@@ -127,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7d5e337f0fcd9da0d9cb078c623eeea786071d44045fe85bfb593f8b706c38ee"
+hash = "00f404cefbbc8768e780907bab50c7a92c70a1c050c2208377bf2bd71efb904c"
 metafile = true
 
 [[files]]

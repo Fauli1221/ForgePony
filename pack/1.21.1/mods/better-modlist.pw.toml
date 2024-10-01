@@ -1,0 +1,13 @@
+name = "Better ModList [(Neo)Forge]"
+filename = "better_modlist-1.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/miOTN96m/better_modlist-1.1.4.jar"
+hash-format = "sha1"
+hash = "cc008c339beebf0c91a707594ab5c2797a1a932a"
+
+[update]
+[update.modrinth]
+mod-id = "sbpqhzIG"
+version = "miOTN96m"
