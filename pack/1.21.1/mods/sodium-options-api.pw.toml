@@ -1,13 +1,13 @@
 name = "Sodium Options API"
-filename = "sodiumoptionsapi-neoforge-1.0.2-1.21.1.jar"
+filename = "sodiumoptionsapi-neoforge-1.0.8-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Es5v4eyq/versions/3tMrKnAt/sodiumoptionsapi-neoforge-1.0.2-1.21.1.jar"
-hash-format = "sha1"
-hash = "0d428dd3f4de4af80447db89eaa9156d33c29ca7"
+url = "https://cdn.modrinth.com/data/Es5v4eyq/versions/PurZvdnv/sodiumoptionsapi-neoforge-1.0.8-1.21.1.jar"
+hash-format = "sha512"
+hash = "01db93f3454c80037b9051d3a56af2ef834c53e70dac545dfb677c3fa905ff04b6bbcf6e19208d9f3a42694facd46d748570bd1b3a2d2c8fd96b843beb3a48e7"
 
 [update]
 [update.modrinth]
 mod-id = "Es5v4eyq"
-version = "3tMrKnAt"
+version = "PurZvdnv"

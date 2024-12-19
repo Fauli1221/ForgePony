@@ -14,7 +14,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "eb436640f870262186c3fe9ed68b7d0a2ad11fc69754cdf9897f1b9fcd42a0b7"
+hash = "f151f54af82cc2aa4e37fc9f16448a3fff186dd7eba0f1a6bb83de56b372a8f0"
 metafile = true
 
 [[files]]
@@ -34,12 +34,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "631837fc09fafc0e578a2f1cc0f2fe456825d45b078c9e43b592c09cf0e6c8e3"
+hash = "1b794aa18b59d1bec9c76803f073d0d54554ceff3a4c61500c9c6a09be676874"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2497b7f5fefc096dedf5bcb0fcecba182b40339fb8410f6699605fdc5d32b06b"
+hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
 metafile = true
 
 [[files]]
@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "83e5ef8ddf5f41c33cde52de9b4991067e8701ecb89353c3a5219a55f6ff04d5"
+hash = "55cfba35c153fb922dd2d52b24fa163b040dee11be2fdff6656093a919c69ca0"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ed8710015d6f9b29b47b1434262d9d216b058c390773085484413f8ccf6c85cb"
+hash = "a77186c42b3385f777722ad96f80f6bda946460ba3bcd1638367dca113f8500b"
 metafile = true
 
 [[files]]
@@ -119,5 +119,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "02e727d18c0d178f33f9f243892ff11afad42fe673a3c54bd7cd29dcf05a8ea5"
+hash = "5d1a39092543a20c5fec0ef3272455d0c2c845db4903f90bc9cfd28fbef81969"
 metafile = true
