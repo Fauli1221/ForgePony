@@ -1,12 +1,12 @@
 name = "Forge Pony"
 author = "Sky Splash"
-version = "0.3.0-1.20.1"
+version = "1.3.1-1.20.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a1be97f8adeae17672f59c2850018efcbeb50eac482c9ea7b1d58a6984140a50"
+hash = "8ef5413a13f8c1d68ddaa2564c64b0f795b385158aab18dc9c5e328cb831aeb3"
 
 [versions]
 minecraft = "1.20.1"
