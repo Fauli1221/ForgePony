@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "defaultconfigs/NoChatReports/NCR-Client.json"
+hash = "efe6310e0631e5164ec3d8048bec35ab9a6a27b148972ee8511490c4bd6e415f"
+
+[[files]]
+file = "defaultconfigs/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "defaultconfigs/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+
+[[files]]
+file = "defaultconfigs/sodiumextras-client.toml"
+hash = "862eef7aef9785a85e2aa88809eac970fb9142662a76b322d83bd127863471ce"
+
+[[files]]
 file = "mods/better-modlist.pw.toml"
 hash = "94be5d91856a10f5c83636eaec7b669c4dd8d70dd0a7825a6bb965b2ad849937"
 metafile = true
@@ -138,9 +154,4 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "30e1fceff4fd5d769c044f2f8775656a641bf71993f3246d7965712bf2706afa"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
