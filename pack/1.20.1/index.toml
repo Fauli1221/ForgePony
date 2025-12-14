@@ -14,7 +14,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "231e0c5447fa4a1832dc93ef0944caf17c80986d3a0cf3d6711982109c5bc090"
+hash = "357cf17687bf247dd18430b2ae81de2b408bb765013632c8804c98fd1043fb66"
 metafile = true
 
 [[files]]
@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "a71da6b2e8a7654cdc2936e0ac684fbcbed513eb07b32f68f39497c27fe0de1d"
+hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
 metafile = true
 
 [[files]]
@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
+hash = "628d5006156ef76351266ad03267b573b9b9f3777b105caee67ce18bbc410146"
 metafile = true
 
 [[files]]
@@ -54,12 +54,12 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
+hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
 file = "mods/hd-skins.pw.toml"
-hash = "d69a7bae47c6c727c8f0fb1176113ff426a5584c7c4214604ac5e955a33ecd7a"
+hash = "9b2ae569bd31793437a0ddade1e5cc801a0f317bd632d89776621f134f77f48d"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
+hash = "186909f73870979511db893fca2e2a318b311361f168d425ba0e58fc539188ee"
 metafile = true
 
 [[files]]
@@ -119,5 +119,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
+hash = "2bb8c65e92264ca78b851a7e04461d9ef2c1e0bfab532ece8cefed5330680653"
 metafile = true
