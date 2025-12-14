@@ -1,13 +1,13 @@
 name = "Kirin"
-filename = "kirin-1.20.1+1.21.jar"
+filename = "kirin-1.21.1+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9aNz8Zqn/versions/p1Djg4Hs/kirin-1.20.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/9aNz8Zqn/versions/LqiO7ltE/kirin-1.21.1%2B1.21.jar"
 hash-format = "sha512"
-hash = "8baac11d4b071ec46711d9fc391d7ea14e80b4bcfdce39ecc68c2ddb05d7c2f44eb769229ebcc4d4871ebce2b954e4a725817a12c39654cb702a96ece5185015"
+hash = "d78020e9f0b0df5a6c8a2ca990f84fe158b51620fbef899050fc3cabbde238b4b547879589a64a46ccb5129bdb381306e542ac63ceb8f5e8f5c407bc9a8a69a9"
 
 [update]
 [update.modrinth]
 mod-id = "9aNz8Zqn"
-version = "p1Djg4Hs"
+version = "LqiO7ltE"

@@ -1,13 +1,13 @@
 name = "ImmediatelyFast"
-filename = "ImmediatelyFast-NeoForge-1.6.5+1.21.1.jar"
+filename = "ImmediatelyFast-NeoForge-1.6.8+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/paIuk6sO/ImmediatelyFast-NeoForge-1.6.5%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/fWangWhY/ImmediatelyFast-NeoForge-1.6.8%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "50435efe88c3f26b6cb549305f3dbb874564a0c138ee77c0d6da36738f649989c65e7390c09df0605bad65996bfd5fdd84340cf5909dc26c997816bc302d2deb"
+hash = "0c714fb85a14f6c0305adbc2f5132fe37221b9897be18cbd8c8e6f236bf5894a3930a57fe8f1a10f6aa06b412a7d481731980cba83cc672e87a22b31bc1376b6"
 
 [update]
 [update.modrinth]
 mod-id = "5ZwdcRci"
-version = "paIuk6sO"
+version = "fWangWhY"
