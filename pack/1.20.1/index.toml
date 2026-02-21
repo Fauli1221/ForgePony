@@ -14,7 +14,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "357cf17687bf247dd18430b2ae81de2b408bb765013632c8804c98fd1043fb66"
+hash = "47c92da1f944b8080bae19d739db1d45aa8ba462ae55d6486cf88705d74ab588"
 metafile = true
 
 [[files]]
@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
+hash = "68a935746aad424891dcb36fa705cdafd652ea1170ecb8144b1db0c87e30297b"
 metafile = true
 
 [[files]]
@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "628d5006156ef76351266ad03267b573b9b9f3777b105caee67ce18bbc410146"
+hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
 metafile = true
 
 [[files]]
@@ -79,12 +79,17 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "186909f73870979511db893fca2e2a318b311361f168d425ba0e58fc539188ee"
+hash = "97b807fbcaa59fd13ffdfd1428a2484d7c320f94af9ffda992ee9be9beba0286"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "252c5199daf5f3459056cf21cb6a2cd357a6cae8e2a60594a9668d5d93384d72"
 metafile = true
 
 [[files]]
@@ -113,11 +118,11 @@ hash = "817b4a47826bd99c69957fe07131d5704984f89fec96287cdc20c6fbe46100cf"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "cd80233af1de348bd083c30d223bdbbd637737306245b8dcaf76ae812e657b2f"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "698c000b48f4680355979673c52db4870fb40ec1cb85446c2d73e24aadb0c7ea"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2bb8c65e92264ca78b851a7e04461d9ef2c1e0bfab532ece8cefed5330680653"
+hash = "8bea96776d5ba7134eaf176a8c732c138ab0735f54dd090c45c62f44337aa321"
 metafile = true
