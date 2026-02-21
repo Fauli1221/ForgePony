@@ -1,0 +1,18 @@
+name = "Unicopia"
+filename = "unicopia-1.3.19+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9K7RJlvM/versions/LDn1okdN/unicopia-1.3.19%2B1.21.jar"
+hash-format = "sha512"
+hash = "d6e10cec470501f787cf3a6a25f85da9d64b5931a74ec22bda01fe434a927161964d45fb70bf66af5cb3586a093b8aaf28c8c6409b289f76f78fbc81d11211e0"
+
+[update]
+[update.modrinth]
+mod-id = "9K7RJlvM"
+version = "LDn1okdN"
+
+[option]
+optional = true
+description = "WARNING: Unicopia is experimental"
+default = false

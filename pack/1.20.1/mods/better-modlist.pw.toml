@@ -1,13 +1,13 @@
 name = "Better ModList [(Neo)Forge]"
-filename = "Better_Modlist-0.1.14-all.jar"
+filename = "Better_Modlist-0.1.15-all.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/dZhdGmMx/Better_Modlist-0.1.14-all.jar"
+url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/LhqllPrs/Better_Modlist-0.1.15-all.jar"
 hash-format = "sha512"
-hash = "13cf202bc39488ec4a88925fec0e913532aa0907b201a909e5dbe958c0c7b90c37a3fe4bbc01e990dc5cd86aedfceb28c65236e9403eefccda4f8da9436a95ba"
+hash = "00ba1c33355c8c6202281ce5b1670757837f0dc5bf156e26c5d43e37fa577b1c16d73a8c8f3c88400403e8b21206e0a176923c87c88aa1f4360c6b2bf17f2f8e"
 
 [update]
 [update.modrinth]
 mod-id = "sbpqhzIG"
-version = "dZhdGmMx"
+version = "LhqllPrs"
