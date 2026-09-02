@@ -1,13 +1,13 @@
 name = "Better ModList [(Neo)Forge]"
-filename = "better_modlist-1.1.22.jar"
+filename = "better_modlist-21.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/XlCN7NWa/better_modlist-1.1.22.jar"
+url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/XavNSFnf/better_modlist-21.1.1.jar"
 hash-format = "sha512"
-hash = "99b39ffaaa04c0332602174c4b65445b3defdc6db1dc0a881b7c4bcd477734994d41d9a74bc5dc7066f8feeddc5075f62f926eb3ecabad135c7d381181ada1a9"
+hash = "cabcf78010f1d1ef599184a515704d84984c1eddcb41fd1bc77ee709cc804ea5a6ff25810e4a5a8c26dd0acd785fde7c4d05222dca850f02dabf9cd7f07138ae"
 
 [update]
 [update.modrinth]
 mod-id = "sbpqhzIG"
-version = "XlCN7NWa"
+version = "XavNSFnf"

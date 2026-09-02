@@ -1,0 +1,157 @@
+hash-format = "sha256"
+
+[[files]]
+file = "defaultconfigs/NoChatReports/NCR-Client.json"
+hash = "efe6310e0631e5164ec3d8048bec35ab9a6a27b148972ee8511490c4bd6e415f"
+
+[[files]]
+file = "defaultconfigs/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "defaultconfigs/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+
+[[files]]
+file = "defaultconfigs/sodiumextras-client.toml"
+hash = "862eef7aef9785a85e2aa88809eac970fb9142662a76b322d83bd127863471ce"
+
+[[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "a02eb39c79d3a87289070168bc765133ff8f885b0da86283ca8b1830123477ab"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "cde69e84473de3b145c0016834592b9dc7adfe9d4e4b860da31f6578de4f3edd"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "065d8ed273e03130f28e637a4c085c4ad6e7e74eb9fb7d536169a2a874a26a7f"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "a37e370926d615244408c98a6ac7741c744b347203d8f430bc6a6f425037fbc1"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "031bbf9f3e7f455958508b0f9f5b02ae2c0f624956537149e64e936d8bfb511a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e5e870e6af57706933a549c62a60d1caa4fad10636354c48abf183275391e5c4"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "fdf8ce79c6351b63af9eb22df722bba4fdb3568e84c3f124e2607766475590f7"
+metafile = true
+
+[[files]]
+file = "mods/hd-skins.pw.toml"
+hash = "be8083846a5c9cd5d3742ece9c28f9fa8ef5584c8c1b9429925a0d6fb32b76a1"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "f1762e0e539220ad17b1f938afaf351a77c31a451177a7960de138fd028dfb00"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "2f8d75ad9d3b70dcdccda52963bdb6169c8def8092d057bdcbd5a38873506b0a"
+metafile = true
+
+[[files]]
+file = "mods/kirin.pw.toml"
+hash = "88bbe6d9f660c085778813aa65b0681eea23c1a680e7b4c31b5219c7880ec478"
+metafile = true
+
+[[files]]
+file = "mods/krypton-foxified.pw.toml"
+hash = "4d88872c427a951e16002f2cf1cd2f0bc5f4779fe0878d166ba05838a32db33e"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "6a34c0b44a9f0a4ebbb04ae8af6cf86c2fce28353935226852d439c14e635f33"
+metafile = true
+
+[[files]]
+file = "mods/launchpad.pw.toml"
+hash = "a8f4645c2192134acbe6534dddbcc5b9156af2ad81792a5e5a781e173b603a31"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "9aafdce81225fa535bd074307cc867c15e41a7a9f5381e765101bf0b54ec70ab"
+metafile = true
+
+[[files]]
+file = "mods/mine-little-pony.pw.toml"
+hash = "0f648f9597c025585f37a7df805eaca6025ac022b59279d6df5299218bc88128"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "04dea091ee3fa1355b83592ef4e48713634ca7d6250926ff0f436b0a0adaf721"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "acbc87fddd4d09807e4407691f3bc2cd284c1620a60117749e5b7e71da42ef53"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "49c0da6189a39961434ed808af4d1bac64a265b5c8957b1e61a6d874d785f3b1"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "185bfb2745e513fea5d9424ca953d74a21b4a423e94952ea5bfd5a629e66a105"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8c272ec6b1bd2c3b526920d224af6b769d5fc03c473fb721e50e7481a6d094e2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "f9e61deb11615326f7a68f655ef068174ed71dfe4d4c197a003feb7ad405625a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "eff31c85964e9e4e4f72ed5f34a67097c538b98cfdf3d7d0cf5a11fe75af7c5a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "52ddc980e1d5b1889ae16e8d922bba71ca1feef6801e8baf69588a1957efac9c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "c866358da2ddb57066cdc8fd250db8630294891eecc7a430b14b746dcf639b85"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "70fc7bf31909c0c715b4ee426dccef7a1f8350a6f58fd63f49e0b2646cb80020"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9e7b0e4035edeeafa04c2f307542042fb395de32087c9f35980e56abef870f6a"
+metafile = true

@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-neoforge-1.9.3+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/aDODZlso/midnightlib-neoforge-1.9.3%2B26.1.jar"
+hash-format = "sha512"
+hash = "26cb710fab2d9b472d2079757e0a7b7024fa722b883239223e9e791179638c9ae2ce41995ca877461ac1ab8cbfb976424794e347c996bbf56922f3e338bae134"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "aDODZlso"

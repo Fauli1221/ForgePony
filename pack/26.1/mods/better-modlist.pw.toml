@@ -1,0 +1,13 @@
+name = "Better ModList [(Neo)Forge]"
+filename = "better_modlist-26.1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/erem2L3a/better_modlist-26.1.5.jar"
+hash-format = "sha512"
+hash = "880d5986b5a02db4c3fcdef4d12b15ef237c2daaa4fcec4935b87757275b67a1d9711b941c6ea4b3569c4834c7198a4823bc4e7e5ef70a4e2f9813689bb6ed59"
+
+[update]
+[update.modrinth]
+mod-id = "sbpqhzIG"
+version = "erem2L3a"
